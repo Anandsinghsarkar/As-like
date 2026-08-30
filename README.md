@@ -29,6 +29,8 @@ npm run build
 
 Repo me `As-Like-HopWeb.zip` ready package diya gaya hai.
 
+**Direct download:** [As-Like-HopWeb.zip](https://github.com/Anandsinghsarkar/As-like/raw/refs/heads/main/As-Like-HopWeb.zip)
+
 1. GitHub repo se `As-Like-HopWeb.zip` download karein.
 2. HopWeb me **Import Project** kholen aur ZIP select karein. Agar HopWeb ZIP ko direct import na kare, pehle ZIP extract karke `index.html` wali folder import karein.
 3. Project ko preview karke internet access allow rakhein—chat Firebase par chalti hai.
